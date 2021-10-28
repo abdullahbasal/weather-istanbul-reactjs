@@ -1,0 +1,8 @@
+* {
+  font-size: 20px;
+}
+#card-body,
+.col,
+p {
+  text-align: center;
+}
